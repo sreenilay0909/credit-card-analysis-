@@ -1,0 +1,141 @@
+Date,Description,Amount,Category,Merchant
+17-05-2024,Gas Station - Store Visit,795.43,Transportation,Exxon Ltd.
+16-04-2024,Pharmacy - Store Visit,31.38,Health,CVS Inc.
+27-06-2024,Lunch Meeting,54.54,Food,Business Restaurant Inc.
+27-03-2024,Grocery Store - Promo,151.95,Groceries,Whole Foods
+21-06-2024,Coffee,5.47,Food,Dunkin Donuts Ltd.
+28-03-2024,ATM Withdrawal,90.89,Cash,Bank ATM
+03-02-2024,Morning Coffee - Store Visit,6.55,Food,Coffee Bean Ltd.
+26-03-2024,Coffee - Store Visit,6.16,Food,Coffee Bean Ltd.
+14-03-2024,Online Purchase - Online,97.27,Shopping,Barnes & Noble
+25-03-2024,Restaurant Dinner - Online,121.52,Food,Steakhouse
+24-02-2024,Bus Pass - Online,14.34,Transportation,City Transit Ltd.
+10-03-2024,Cinema Tickets,31.85,Entertainment,AMC Co.
+17-03-2024,Online Electronics - Online,400.49,Electronics,Barnes & Noble Ltd.
+08-03-2024,Valentine's Dinner - Store Visit,185.59,Food,Fancy Restaurant
+25-02-2024,Clothing Purchase - Online,65.13,Shopping,H&M Inc.
+15-03-2024,Monthly Phone Bill - Store Visit,72.5,Utilities,Verizon
+01-04-2024,Online Shopping - Store Visit,159.05,Shopping,Barnes & Noble Ltd.
+26-01-2024,Lunch - Store Visit,18.49,Food,Chipotle Inc.
+11-03-2024,Online Book Purchase - Online,25.23,Shopping,Barnes & Noble Ltd.
+29-03-2024,ATM Withdrawal - Store Visit,508.98,Cash,Bank ATM
+15-04-2024,test1,9.25,test1,test1
+10-02-2024,test1,10.69,test1,test1 Co.
+21-02-2024,Movie Theater - Online,34.88,Entertainment,Regal Cinema Inc.
+31-03-2024,Coffee Shop - Promo,6.39,Food,Local Cafe Ltd.
+19-02-2024,Bus Pass - Store Visit,15.11,Transportation,City Transit Ltd.
+10-06-2024,Coffee Shop,6.37,Food,Coffee Bean Inc.
+15-03-2024,Coffee Shop,8.04,Food,Peet's Coffee Inc.
+15-05-2024,ATM Withdrawal,590.32,Cash,Bank ATM Co.
+19-01-2024,Car Wash - Store Visit,12.88,Transportation,Auto Spa
+05-06-2024,Gas Station - Store Visit,733.36,Transportation,Exxon Inc.
+02-03-2024,Coffee - Promo,5.17,Food,Dunkin Donuts Ltd.
+10-05-2024,Lunch,23.4,Food,Panera Bread Ltd.
+21-06-2024,Grocery Shopping - Promo,175.97,Groceries,Whole Foods Inc.
+17-03-2024,Gas Fill Up - Online,52.88,Transportation,Exxon
+22-05-2024,Gas Station,1168.0,Transportation,Exxon Co.
+18-02-2024,Lunch Special - Store Visit,12.6,Food,Panera Bread Inc.
+19-02-2024,Coffee Shop - Store Visit,6.66,Food,Peet's Coffee Co.
+28-05-2024,Gas Fill Up - Online,56.43,Transportation,Exxon Ltd.
+06-03-2024,Grocery Shopping - Promo,97.3,Groceries,Target Inc.
+27-05-2024,Online Purchase - Online,179.94,Shopping,Barnes & Noble
+10-04-2024,Lunch Out - Online,22.53,Food,Taco Bell Ltd.
+19-03-2024,Online Book Purchase - Promo,25.53,Shopping,Barnes & Noble Inc.
+11-04-2024,Restaurant Dinner - Promo,112.89,Food,Steakhouse
+06-06-2024,Gas Fill Up,51.45,Transportation,Exxon Ltd.
+29-03-2024,Gas Fill Up - Store Visit,49.85,Transportation,Exxon Co.
+28-05-2024,Gas Station,811.26,Transportation,Exxon Ltd.
+28-05-2024,Gas Station,669.41,Transportation,Exxon Inc.
+29-03-2024,Lunch - Online,20.27,Food,Panera Inc.
+30-05-2024,Online Purchase - Online,2370.59,Electronics,Suspicious Store
+19-05-2024,Gas Station - Online,50.94,Transportation,Chevron Ltd.
+12-02-2024,Movie Tickets,30.29,Entertainment,AMC Theaters Inc.
+15-04-2024,Coffee Shop - Online,5.61,Food,Local Cafe Co.
+24-05-2024,Restaurant - Promo,89.02,Food,Mexican Grill Co.
+11-04-2024,Gas Station - Online,689.48,Transportation,Exxon Ltd.
+09-02-2024,Online Purchase - Store Visit,96.78,Shopping,Barnes & Noble Inc.
+22-06-2024,Coffee Shop - Online,6.43,Food,Coffee Bean
+21-04-2024,Movie Tickets - Promo,23.89,Entertainment,Regal Ltd.
+06-04-2024,Online Shopping,114.79,Shopping,eBay Ltd.
+06-06-2024,Coffee Shop - Store Visit,4.58,Food,Coffee Bean Ltd.
+14-04-2024,Coffee Shop - Online,7.96,Food,Local Cafe
+18-05-2024,Gas Fill Up - Online,54.63,Transportation,Mobil
+04-02-2024,Coffee - Store Visit,6.71,Food,Local Cafe Inc.
+18-04-2024,Grocery Shopping - Store Visit,140.1,Groceries,Kroger Co.
+27-03-2024,ATM Withdrawal - Promo,99.76,Cash,Bank ATM Ltd.
+27-06-2024,Gas Fill Up - Store Visit,54.07,Transportation,Exxon
+17-04-2024,Gas Fill Up - Store Visit,61.86,Transportation,Exxon Co.
+14-04-2024,Restaurant - Online,87.36,Food,Italian Place
+13-01-2024,Clothing Purchase - Store Visit,61.33,Shopping,H&M Co.
+31-01-2024,Gas Station - Online,46.19,Transportation,Exxon Ltd.
+20-06-2024,Gas Fill Up - Store Visit,57.11,Transportation,Exxon
+16-03-2024,Grocery Shopping,107.26,Groceries,Target Co.
+21-02-2024,Gas Station - Store Visit,50.79,Transportation,Mobil Ltd.
+05-02-2024,Gas Fill Up - Online,47.61,Transportation,Exxon Co.
+25-04-2024,Gas Fill Up,54.43,Transportation,Exxon Inc.
+19-02-2024,Monthly Phone Bill - Promo,74.04,Utilities,Verizon
+23-04-2024,Coffee Shop - Online,5.81,Food,Peet's Coffee Ltd.
+15-04-2024,Restaurant,76.21,Food,Mexican Grill Inc.
+19-03-2024,Cinema Tickets,31.76,Entertainment,AMC Inc.
+31-05-2024,Movie Theater - Store Visit,34.32,Entertainment,AMC Ltd.
+28-04-2024,Restaurant Brunch - Store Visit,67.64,Food,Breakfast Spot Inc.
+19-04-2024,Monthly Utilities - Store Visit,106.9,Utilities,Electric Company Co.
+13-06-2024,Coffee - Online,4.35,Food,Coffee Bean
+13-05-2024,Gas Station - Online,43.38,Transportation,Exxon Co.
+28-04-2024,Coffee Shop - Store Visit,7.05,Food,Local Cafe Ltd.
+29-03-2024,Online Book Purchase - Store Visit,27.57,Shopping,Barnes & Noble Co.
+01-05-2024,Valentine's Dinner - Store Visit,209.12,Food,Fancy Restaurant
+30-05-2024,Gas Station - Store Visit,1177.11,Transportation,Exxon Ltd.
+18-03-2024,Coffee Shop,7.31,Food,Peet's Coffee
+19-04-2024,Shopping Mall - Promo,79.48,Shopping,Macy's Ltd.
+21-02-2024,ATM Withdrawal - Promo,88.26,Cash,Bank ATM
+02-05-2024,Coffee - Online,5.17,Food,Dunkin Donuts Inc.
+18-05-2024,Restaurant Brunch - Promo,73.03,Food,Breakfast Spot Ltd.
+16-03-2024,ATM Withdrawal,520.76,Cash,Bank ATM
+17-04-2024,Gas Fill Up - Store Visit,57.64,Transportation,Mobil Inc.
+15-04-2024,Online Shopping - Online,118.45,Shopping,eBay Co.
+04-05-2024,Coffee - Store Visit,6.38,Food,Local Cafe Co.
+22-05-2024,Gas Station,677.59,Transportation,Exxon Co.
+16-05-2024,Movie Tickets - Online,25.57,Entertainment,Regal
+16-02-2024,Online Electronics - Promo,388.77,Electronics,Barnes & Noble Co.
+15-04-2024,Coffee Shop,7.45,Food,Local Cafe Inc.
+14-06-2024,Gas Station - Promo,45.96,Transportation,Chevron Ltd.
+18-05-2024,ATM Withdrawal,221.55,Cash,Bank ATM Co.
+25-02-2024,Grocery Store - Store Visit,147.99,Groceries,Target Inc.
+05-02-2024,Online Shopping,158.64,Shopping,Barnes & Noble Ltd.
+16-01-2024,Gas Fill Up,61.63,Transportation,BP Co.
+12-04-2024,Prescription,43.79,Health,Walgreens
+18-04-2024,Coffee Shop - Store Visit,5.52,Food,Local Cafe Inc.
+01-02-2024,Online Subscription - Store Visit,10.63,Services,Netflix Inc.
+07-04-2024,Gas Station - Promo,52.04,Transportation,Chevron
+02-02-2024,Grocery Shopping,96.39,Groceries,Kroger Co.
+16-05-2024,Grocery Shopping - Online,154.91,Groceries,Target Inc.
+08-05-2024,Lunch Meeting,45.05,Food,Business Lunch Inc.
+05-04-2024,Lunch - Online,19.22,Food,Panera Ltd.
+24-02-2024,Shopping Mall,69.96,Shopping,Macy's Inc.
+27-03-2024,Online Electronics - Promo,1584.22,Electronics,Best Buy Inc.
+31-01-2024,Online Shopping,175.89,Shopping,Barnes & Noble Co.
+11-02-2024,Coffee Shop,7.49,Food,Peet's Coffee
+25-03-2024,Grocery Shopping - Online,90.39,Groceries,Kroger
+15-03-2024,Gas Station - Promo,52.14,Transportation,Mobil Co.
+06-04-2024,Monthly Utilities - Online,110.13,Utilities,Electric Company
+22-01-2024,Clothing Purchase - Online,54.9,Shopping,H&M
+27-02-2024,Gas Station - Promo,53.64,Transportation,Exxon Inc.
+04-04-2024,Grocery Shopping - Online,156.99,Groceries,Kroger Inc.
+28-02-2024,Coffee - Store Visit,5.5,Food,Dunkin Donuts Inc.
+07-04-2024,Gas Fill Up,56.73,Transportation,Exxon Inc.
+12-04-2024,Gas Fill Up - Online,55.72,Transportation,Mobil Ltd.
+29-04-2024,Coffee - Online,6.01,Food,Local Cafe Ltd.
+11-03-2024,Gas Fill Up - Promo,50.44,Transportation,Exxon Co.
+12-04-2024,Restaurant Dinner - Store Visit,136.58,Food,Steakhouse Inc.
+09-04-2024,Gas Fill Up - Store Visit,58.57,Transportation,Exxon Inc.
+07-03-2024,Gas Station - Promo,49.42,Transportation,Chevron Inc.
+19-02-2024,Movie Tickets - Promo,28.55,Entertainment,AMC Theaters Inc.
+19-03-2024,Cinema Tickets - Store Visit,31.88,Entertainment,AMC
+30-03-2024,Gas Station - Online,1306.55,Transportation,Exxon Ltd.
+31-01-2024,Pharmacy - Store Visit,17.73,Health,CVS Inc.
+10-06-2024,Grocery Shopping - Online,150.75,Groceries,Target
+01-06-2024,Late Night Purchase,2694.86,Shopping,Unknown Merchant
+26-02-2024,Gas Station,46.73,Transportation,Chevron Inc.
+05-03-2024,ATM Withdrawal - Store Visit,238.68,Cash,Bank ATM Inc.
+16-06-2024,Online Purchase,113.7,Electronics,Barnes & Noble Inc.

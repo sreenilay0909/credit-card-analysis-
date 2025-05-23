@@ -1,0 +1,114 @@
+Date,Description,Amount,Category,Merchant
+02-01-2024,Morning Coffee,5.75,Food,Starbucks
+02-01-2024,Lunch Special,12.5,Food,Subway
+03-01-2024,Gas Fill Up,52.3,Transportation,Shell
+03-01-2024,Grocery Shopping,87.45,Groceries,Walmart
+04-01-2024,Online Book Purchase,24.99,Shopping,Amazon
+05-01-2024,Movie Tickets,32,Entertainment,AMC Theaters
+05-01-2024,Dinner Out,68.75,Food,Olive Garden
+06-01-2024,ATM Withdrawal,100,Cash,Bank ATM
+07-01-2024,Coffee Shop,4.25,Food,Dunkin Donuts
+08-01-2024,Gas Station,45.8,Transportation,Exxon
+08-01-2024,Pharmacy,15.6,Health,CVS
+09-01-2024,Online Shopping,156.99,Shopping,Amazon
+10-01-2024,Lunch Meeting,25.4,Food,Panera Bread
+11-01-2024,Gym Membership,89.99,Health,Planet Fitness
+12-01-2024,Grocery Store,134.67,Groceries,Target
+13-01-2024,Car Wash,12,Transportation,Auto Spa
+14-01-2024,Coffee,6.5,Food,Local Cafe
+15-01-2024,Gas Fill Up,58.9,Transportation,BP
+15-01-2024,Fast Food,8.75,Food,McDonald's
+16-01-2024,Online Purchase,299.99,Electronics,Best Buy
+17-01-2024,Prescription,45.3,Health,Walgreens
+18-01-2024,Lunch,18.25,Food,Chipotle
+19-01-2024,Movie Rental,5.99,Entertainment,Redbox
+20-01-2024,Grocery Shopping,92.15,Groceries,Kroger
+21-01-2024,Coffee Shop,7.2,Food,Peet's Coffee
+22-01-2024,Gas Station,49.65,Transportation,Chevron
+23-01-2024,Online Subscription,9.99,Services,Netflix
+24-01-2024,Restaurant Dinner,145.5,Food,Steakhouse
+25-01-2024,ATM Withdrawal,200,Cash,Bank ATM
+26-01-2024,Shopping Mall,78.99,Shopping,Macy's
+27-01-2024,Coffee,5.5,Food,Starbucks
+28-01-2024,Gas Fill Up,61.4,Transportation,Shell
+29-01-2024,Lunch,22.3,Food,Taco Bell
+30-01-2024,Online Purchase,89.99,Shopping,Amazon
+31-01-2024,Monthly Phone Bill,75,Utilities,Verizon
+01-02-2024,Coffee Shop,6.25,Food,Local Cafe
+02-02-2024,Grocery Store,156.78,Groceries,Whole Foods
+03-02-2024,Gas Station,55.2,Transportation,Mobil
+04-02-2024,Online Electronics,399.99,Electronics,Amazon
+05-02-2024,Lunch Out,28.4,Food,Subway
+06-02-2024,Movie Theater,35.5,Entertainment,Regal Cinema
+07-02-2024,Coffee,4.75,Food,Dunkin Donuts
+08-02-2024,Gas Fill Up,47.85,Transportation,Exxon
+09-02-2024,Pharmacy,32.15,Health,CVS
+10-02-2024,Restaurant,95.6,Food,Italian Bistro
+11-02-2024,Online Shopping,124.99,Shopping,eBay
+12-02-2024,Coffee Shop,5.95,Food,Starbucks
+13-02-2024,Gas Station,52.75,Transportation,BP
+14-02-2024,Valentine's Dinner,189.99,Food,Fancy Restaurant
+15-02-2024,ATM Withdrawal,150,Cash,Bank ATM
+16-02-2024,Online Purchase,67.5,Shopping,Amazon
+17-02-2024,Lunch,15.75,Food,Panera
+18-02-2024,Gas Fill Up,59.3,Transportation,Shell
+19-02-2024,Grocery Shopping,112.45,Groceries,Target
+20-02-2024,Coffee,6,Food,Local Cafe
+21-02-2024,Online Electronics,799.99,Electronics,Best Buy
+22-02-2024,Lunch Meeting,45.8,Food,Business Lunch
+23-02-2024,Gas Station,48.95,Transportation,Chevron
+24-02-2024,Movie Night,42.5,Entertainment,AMC
+25-02-2024,Coffee Shop,5.25,Food,Peet's Coffee
+26-02-2024,Grocery Store,98.75,Groceries,Walmart
+27-02-2024,Online Purchase,199.99,Shopping,Amazon
+28-02-2024,Gas Fill Up,54.6,Transportation,Mobil
+01-03-2024,Coffee,7.5,Food,Starbucks
+02-03-2024,Lunch,19.25,Food,Chipotle
+03-03-2024,Gas Station,1200,Transportation,Shell
+04-03-2024,Online Shopping,156.99,Shopping,Amazon
+05-03-2024,Restaurant,75.4,Food,Mexican Grill
+06-03-2024,Coffee Shop,6.75,Food,Local Cafe
+07-03-2024,ATM Withdrawal,500,Cash,Bank ATM
+08-03-2024,Gas Fill Up,51.2,Transportation,BP
+09-03-2024,Grocery Shopping,134.55,Groceries,Kroger
+10-03-2024,Online Purchase,2500,Electronics,Suspicious Store
+11-03-2024,Coffee,5,Food,Dunkin Donuts
+12-03-2024,Lunch,23.75,Food,Subway
+13-03-2024,Gas Station,46.8,Transportation,Exxon
+14-03-2024,Movie Tickets,28,Entertainment,Regal
+15-03-2024,Online Shopping,89.99,Shopping,eBay
+16-03-2024,Coffee Shop,4.5,Food,Starbucks
+17-03-2024,Gas Fill Up,58.45,Transportation,Shell
+18-03-2024,Restaurant Dinner,125.75,Food,Steakhouse
+19-03-2024,ATM Withdrawal,300,Cash,Bank ATM
+20-03-2024,Online Purchase,45.99,Shopping,Amazon
+21-03-2024,Coffee,6.25,Food,Local Cafe
+22-03-2024,Gas Station,800,Transportation,Shell
+22-03-2024,Gas Station,800,Transportation,Shell
+22-03-2024,Gas Station,750,Transportation,Shell
+22-03-2024,Gas Station,900,Transportation,Shell
+22-03-2024,Gas Station,850,Transportation,Shell
+23-03-2024,Lunch,17.5,Food,Panera
+24-03-2024,Online Electronics,1500,Electronics,Best Buy
+25-03-2024,Coffee Shop,5.75,Food,Peet's Coffee
+26-03-2024,Grocery Shopping,167.89,Groceries,Whole Foods
+27-03-2024,Gas Fill Up,53.25,Transportation,Mobil
+28-03-2024,Restaurant,85.6,Food,Italian Place
+29-03-2024,Online Purchase,399.99,Shopping,Amazon
+30-03-2024,Coffee,4.95,Food,Starbucks
+31-03-2024,Monthly Utilities,125,Utilities,Electric Company
+01-04-2024,Gas Station,47.3,Transportation,BP
+02-04-2024,Lunch Out,21.4,Food,Taco Bell
+03-04-2024,Online Shopping,234.99,Shopping,Target Online
+04-04-2024,Coffee Shop,6.5,Food,Local Cafe
+05-04-2024,Movie Theater,31.5,Entertainment,AMC
+06-04-2024,Gas Fill Up,55.85,Transportation,Shell
+07-04-2024,Restaurant Brunch,68.75,Food,Breakfast Spot
+08-04-2024,ATM Withdrawal,200,Cash,Bank ATM
+09-04-2024,Online Purchase,129.99,Electronics,Amazon
+10-04-2024,Coffee,5.25,Food,Dunkin Donuts
+11-04-2024,Gas Station,49.6,Transportation,Chevron
+12-04-2024,Grocery Shopping,143.25,Groceries,Walmart
+13-04-2024,Late Night Purchase,3000,Shopping,Unknown Merchant
+14-04-2024,Coffee Shop,7,Food,Starbucks
+15-04-2024,Lunch Meeting,52.3,Food,Business Restaurant
