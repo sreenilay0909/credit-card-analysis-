@@ -177,8 +177,8 @@ async function generatePDF(data, filePath, images = {}) {
 const loginTransporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
-        user: 'sreenilay0909@gmail.com', // Your Gmail address
-        pass: 'keoypyainkaxvnpl'   // Your Gmail App Password
+        user: '', // Your Gmail address
+        pass: ''   // Your Gmail App Password
     }
 });
 
@@ -186,8 +186,8 @@ const loginTransporter = nodemailer.createTransport({
 const analyzerTransporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
-        user: 'sreenilay0909@gmail.com', // Your Gmail address
-        pass: 'keoypyainkaxvnpl'   // Your Gmail App Password
+        user: '', // Your Gmail address
+        pass: ''   // Your Gmail App Password
     }
 });
 
@@ -195,8 +195,8 @@ const analyzerTransporter = nodemailer.createTransport({
 const formTransporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
-        user: 'sreenilay0909@gmail.com', // Your Gmail address
-        pass: 'keoypyainkaxvnpl'   // Your Gmail App Password
+        user: '', // Your Gmail address
+        pass: ''   // Your Gmail App Password
     }
 });
 
